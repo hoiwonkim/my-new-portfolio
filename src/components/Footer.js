@@ -16,7 +16,7 @@ const FooterWrapper = styled.footer`
 function Footer() {
   return (
     <FooterWrapper>
-      <p>© 2024 Your Name. All rights reserved.</p>
+      <p>© 2024 Hoi Won KIM. All rights reserved.</p>
     </FooterWrapper>
   );
 }
